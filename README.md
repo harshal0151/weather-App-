@@ -1,5 +1,5 @@
 
 
    Weather App UI
- ![Homepage](./src/assets/UI/Home.png)
+ ![Homepage](./images/weather.png)
 
